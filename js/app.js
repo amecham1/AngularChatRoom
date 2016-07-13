@@ -1,3 +1,4 @@
-angular.module('chatroom', []).config(function($httpProvider){
-  
+angular.module('chatroom', [])
+.config(function($httpProvider){
+
 });
